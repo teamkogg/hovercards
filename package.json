@@ -118,7 +118,7 @@
     "node-fetch": "^1.6.0",
     "nodemon": "^1.10.0",
     "npm-run-all": "^2.3.0",
-    "postcss-loader": "^0.9.1",
+    "postcss-loader": "^0.10.0",
     "postcss-nested": "^1.0.0",
     "postcss-safe-important": "^1.0.4",
     "semantic-release": "^4.3.5",
