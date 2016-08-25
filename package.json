@@ -48,7 +48,7 @@
   },
   "dependencies": {
     "async": "^2.0.1",
-    "autolinker": "^0.27.0",
+    "autolinker": "^0.28.0",
     "cheerio": "^0.20.0",
     "classnames": "^2.2.5",
     "compression": "^1.6.2",
