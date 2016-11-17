@@ -91,7 +91,7 @@
     "twit": "^2.1.1",
     "underscore": "^1.8.3",
     "universal-analytics": "^0.4.2",
-    "urijs": "^1.17.0"
+    "urijs": "^1.18.3"
   },
   "devDependencies": {
     "autoprefixer": "^6.4.1",
