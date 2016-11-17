@@ -107,7 +107,7 @@
     "clean-webpack-plugin": "^0.1.13",
     "codecov.io": "^0.1.6",
     "copy-webpack-plugin": "^4.0.0",
-    "css-loader": "^0.25.0",
+    "css-loader": "^0.26.0",
     "cz-conventional-changelog": "^1.2.0",
     "deep-diff": "^0.3.4",
     "eslint": "^3.6.0",
