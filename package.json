@@ -84,7 +84,7 @@
     "redux": "^3.5.2",
     "redux-actions": "^0.13.0",
     "redux-thunk": "^2.1.0",
-    "request": "^2.74.0",
+    "request": "^2.79.0",
     "reselect": "^2.5.3",
     "snoocore": "^3.2.0",
     "string.prototype.endswith": "^0.2.0",
