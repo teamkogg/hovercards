@@ -90,7 +90,7 @@
     "string.prototype.endswith": "^0.2.0",
     "twit": "^2.1.1",
     "underscore": "^1.8.3",
-    "universal-analytics": "^0.4.2",
+    "universal-analytics": "^0.4.7",
     "urijs": "^1.17.0"
   },
   "devDependencies": {
