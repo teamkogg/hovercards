@@ -78,7 +78,7 @@
     "raven": "^0.12.1",
     "raven-js": "^3.7.0",
     "react": "^15.3.1",
-    "react-dom": "^15.3.1",
+    "react-dom": "^15.4.1",
     "react-redux": "^4.4.5",
     "redis": "^2.4.2",
     "redux": "^3.5.2",
