@@ -139,7 +139,7 @@
     "sinon-chai": "^2.8.0",
     "string-replace-webpack-plugin": "0.0.4",
     "style-loader": "^0.13.1",
-    "stylefmt": "^4.2.3",
+    "stylefmt": "^5.0.0",
     "stylelint": "^7.4.2",
     "stylelint-config-standard": "^14.0.0",
     "url-loader": "^0.5.7",
